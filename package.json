@@ -1,0 +1,18 @@
+{
+  "name": "live-landing-gta-vi",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.10",
+    "astro": "^5.9.3",
+    "gsap": "^3.13.0",
+    "tailwindcss": "^4.1.10"
+  },
+  "packageManager": "pnpm@8.15.5+sha1.a58c038faac410c947dbdb93eb30994037d0fce2"
+}
